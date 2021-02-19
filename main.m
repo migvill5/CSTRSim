@@ -48,7 +48,7 @@ gj = 0.98;                           % ADM         Gravedad específica del flui
 %Reaccion
 E =  1500;                           % Btu/lbmol   Energia de activacion de la reacción
 lambda = -60000;                     % Btu/lbmol   Calor de reacción
-k0 = 10.28;                         % s^-1 C
+k0 = 10.28;                          % s^-1 C
 % Const. físicas
 gc = 32.2;                           % lbm ft/ lbf s2^2 factor de conversión
 g = 32.2;                            % ft/s2 Constante de la gravedad
